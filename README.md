@@ -56,6 +56,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/garrido023/garrido023/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/main/img/bart-skate-concept-dark.png">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/main/img/bart-skate-concept.png">
+  
+  <img alt="Bart Simpson skate contribution graph animation concept" src="https://raw.githubusercontent.com/garrido023/garrido023/main/img/bart-skate-concept.png" align="center">
+</picture>
+
 ###
 
 <div>
