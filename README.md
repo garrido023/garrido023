@@ -50,19 +50,15 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/garrido023/garrido023/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKMGpxx6659dMmk/giphy.gif" width="120" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/main/img/bart-skate-concept-dark.png">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/main/img/bart-skate-concept.png">
-  
-  <img alt="Bart Simpson skate contribution graph animation concept" src="https://raw.githubusercontent.com/garrido023/garrido023/main/img/bart-skate-concept.png" align="center">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garrido023/garrido023/output/github-contribution-grid-snake.svg">
+    <img alt="Bart Simpson Animation" src="https://raw.githubusercontent.com/garrido023/garrido023/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 
